@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "description": "Buy milk, eggs, bread",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "Finish homework",
+      "description": "Complete math assignment",
+      "status": true
+    },
+    {
+      "id": 3,
+      "title": "Go for a run",
+      "description": "Run for 30 minutes",
+      "status": false
+    }
+  ]
+}
